@@ -7,3 +7,5 @@ print(a+b)
 print("this is new branch commit")
 
 echo
+
+stash line
